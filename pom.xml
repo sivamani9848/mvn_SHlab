@@ -4,7 +4,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>SHlab</groupId>
   <artifactId>SHlab</artifactId>
-  <packaging>jar</packaging>
+  <packaging>war</packaging>
   <version>1.0-SNAPSHOT</version>
   <name>SHlab</name>
   <url>http://maven.apache.org</url>
